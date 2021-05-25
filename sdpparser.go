@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/NodeBoy2/rtspclient/sdp"
+	"github.com/qq345340585/rtspclient/sdp"
 )
 
 type MediaSubsession struct {

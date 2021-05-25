@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/NodeBoy2/rtspclient/tcpnetwork"
+	"github.com/qq345340585/rtspclient/tcpnetwork"
 
 	"github.com/gorilla/websocket"
 )
