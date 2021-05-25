@@ -1,2 +1,9 @@
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/qq345340585/rtspclient v1.0.0 h1:REU4LkBzMY7VNbPGoVFxYSueFMZbq38eYo7tdq2WkEU=
+github.com/qq345340585/rtspclient/sdp v0.0.0-20210525092605-23ef43bd160e h1:EORalo5EXQXSek8q293EUJjUzZWegKnPk7ynr4l4vWg=
+github.com/qq345340585/rtspclient/sdp v0.0.0-20210525092605-23ef43bd160e/go.mod h1:c8JJSMsIdeUqiTNWsCaL8ZLDnQjV0dKH5HPzzDYx68o=
+github.com/qq345340585/rtspclient/tcpnetwork v0.0.0-20210525092605-23ef43bd160e h1:QaXJUk7p4kSO70Qc5NQOVSZ4hHDhhuyvT3h1ZdUI5/c=
+github.com/qq345340585/rtspclient/tcpnetwork v0.0.0-20210525092605-23ef43bd160e/go.mod h1:zJbX6yk2n+aevk21Cx0YmHAalXfVlt7dL6uAODWvZhU=
